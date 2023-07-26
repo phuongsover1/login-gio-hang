@@ -1,0 +1,28 @@
+/* Table css */
+#cartDisplay {
+  width: 80%;
+  margin: auto;
+}
+table {
+  margin-top: 50px;
+}
+
+table tr {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.table img {
+  width: 150px;
+  height: 150px;
+  border-radius: 6px;
+}
+
+.fa-trash-can {
+  cursor: pointer;
+}
+
+/* Hidden class */
+.hidden {
+  display: none;
+}
